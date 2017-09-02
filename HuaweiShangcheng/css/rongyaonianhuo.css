@@ -1,0 +1,86 @@
+body{font-family:"微软雅黑";
+	/*color: "|"灰  #c8c8c8; 边框 #ededed; 字体灰 #8c8c8c; 枣红色 #ca151e; 字体浅灰 #bbbbbb*/
+	font-size:12px;
+	margin:0;
+	padding:0;
+	border:none;
+}
+html,div,p,span,form,legend,fieldset,h1,h2,h3,h4,h5,h6,hr,ul,li,ol,dl,dd,dt,nr{
+	margin:0;padding:0;
+	border:none;
+}
+button,img,a,input,textarea,th,td,table,lable{
+	margin:0;padding:0;
+}
+a{text-decoration:none;color:#666666}
+ul,li,ol,dl,dd,dt{list-style:none}
+img{border:none}
+/*.clear{height:0;overflow:hidden;font-size:0;clear:both}*/
+span,font{display:inline-block;}
+a{display:inline-block;}
+html,body{width:100%;height:100%}
+
+
+.zhengti{width:1903px;height:auto;margin:0 auto;}
+.nav{width:1903px;height:60px;margin:0 auto;margin:0 auto;background-image:url(../imgrongyaonianhuo/1.jpg);}
+.nav div{width:990px;height:60px;margin:0 auto;line-height:60px;}
+.nav div img{float:left;margin-top:14px;}
+.nav div span{float:right;margin-right:10px;}
+.nav div span a{font-size:15px;color:#fff;margin-left:28px;}
+.nav div span a:hover{color:#c1c0bf;text-decoration:underline;}
+
+
+.banner{width:1903px;height:520px;margin:0 auto;background:url(../imgrongyaonianhuo/2.jpg);}
+
+
+.main{width:1903px;height:168px;margin:0 auto;background:url(../imgrongyaonianhuo/3.jpg);text-align:center;}
+.main a{width:240px;height:168px;margin:0 5px 0 5px;}
+
+
+.main1{width:1903px;height:348px;margin:0 auto;background:url(../imgrongyaonianhuo/4.jpg);text-align:center;}
+.main1 span{width:980px;margin:0 auto;}
+.main1 span a{float:right;color:#f8e49d;text-decoration:underline;}
+
+
+.main2{width:1903px;height:1240px;margin:0 auto;background-image:url(../imgrongyaonianhuo/images/40.png);text-align:center;background-position:8px 0;}
+.main2 .main2_1{width:922px;height:302px;margin:0 auto;position:relative;}
+.main2 .main2_1 img{position:absolute;right:-176px;top:0;}
+.main2 .main2_1 a{width:922px;height:300px;}
+.main2 .main2_2 a{width:455px;height:300px;margin-top:10px;}
+.main2 .main2_3 a{width:300px;height:300px;}
+.main2 .main2_4 a{width:300px;height:300px;}
+.main2 span{width:100%;}
+
+
+.main3{width:1903px;height:113px;margin:0 auto;background-image:url(../imgrongyaonianhuo/images/41.png);text-align:center;background-position:8px 0;}
+
+
+.main4{width:1903px;height:701px;margin:0 auto;background-image:url(../imgrongyaonianhuo/images/42.png);text-align:center;background-position:8px 0;}
+.main4 .main2_3 a{width:300px;height:300px;}
+.main4 .main2_4 a{width:300px;height:300px;}
+.main4 span{width:100%;}
+
+
+.main5{width:1903px;height:113px;margin:0 auto;background-image:url(../imgrongyaonianhuo/images/43.png);text-align:center;background-position:8px 0;}
+.main5 span{width:922px;margin:0 auto;}
+.main5 span a{width:109px;height:22px;float:right;margin-top:77px;}
+
+
+.main6{width:1903px;height:703px;margin:0 auto;background-image:url(../imgrongyaonianhuo/images/44.png);text-align:center;background-position:8px 0;}
+.main6 .main2_3 a{width:300px;height:300px;}
+.main6 .main2_4 a{width:224px;height:300px;margin-top:10px;}
+.main6 span{width:100%;}
+
+
+.main7{width:1903px;height:122px;margin:0 auto;background-image:url(../imgrongyaonianhuo/images/45.png);text-align:center;background-position:8px 0;}
+
+
+.main8{width:1903px;height:220px;margin:0 auto;background-image:url(../imgrongyaonianhuo/images/46.png);text-align:center;background-position:8px 0;}
+.main9{background-image:url(../imgrongyaonianhuo/images/47.png);}
+.main10{height:200px;background-image:url(../imgrongyaonianhuo/images/48.png);}
+.main8 a{width:1020px;height:202px;margin:0 auto;}
+
+
+.footer{width:1903px;height:27px;margin:0 auto;background-image:url(../imgrongyaonianhuo/images/49.png);text-align:center;background-position:8px 0;}
+.footer span{width:1000px;margin:0 auto;}
+.footer span a{width:100px;height:15px;margin-top:12px;float:right;}

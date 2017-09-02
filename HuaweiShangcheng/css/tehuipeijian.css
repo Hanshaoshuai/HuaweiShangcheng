@@ -1,0 +1,102 @@
+body{font-family:"微软雅黑";
+	/*color: "|"灰  #c8c8c8; 边框 #ededed; 字体灰 #8c8c8c; 枣红色 #ca151e; 字体浅灰 #bbbbbb*/
+	font-size:12px;
+	margin:0;
+	padding:0;
+	border:none;
+}
+html,div,p,span,form,legend,fieldset,h1,h2,h3,h4,h5,h6,hr,ul,li,ol,dl,dd,dt,nr{
+	margin:0;padding:0;
+	border:none;
+}
+button,img,a,input,textarea,th,td,table,lable{
+	margin:0;padding:0;
+}
+a{text-decoration:none;color:#666666}
+ul,li,ol,dl,dd,dt{list-style:none}
+img{border:none}
+/*.clear{height:0;overflow:hidden;font-size:0;clear:both}*/
+span,font{display:inline-block;}
+a{display:inline-block;}
+html,body{width:100%;height:100%}
+
+
+.zhengti{width:1920px;height:auto;margin:0 auto;}
+.nav{width:1920px;height:50px;margin:0 auto;margin:0 auto;background-image:url(../imgtehuipeijian/0.jpg);}
+.nav div{width:990px;height:50px;margin:0 auto;line-height:50px;}
+.nav div span{float:right;margin-right:10px;}
+.nav div span a{font-size:15px;color:#fff;margin-left:28px;}
+.nav div span a:hover{color:#fcc625;text-decoration:underline;}
+
+
+.banner{width:1920px;height:569px;margin:0 auto;background:url(../imgtehuipeijian/1.jpg);}
+
+
+.tu{width:1920px;height:194px;margin:0 auto;background:url(../imgtehuipeijian/2.jpg);position:relative;}
+.tu div{width:120px;height:332px;position:absolute;right:300px;top:0;}
+.tu div a{float:left;}
+.tu div a img{float:left;}
+
+
+.main{width:1920px;height:310px;margin:0 auto;background:url(../imgtehuipeijian/3.jpg);text-align:center;}
+.main a{width:1000px;height:310px;}
+
+
+.main1{width:1920px;height:300px;margin:0 auto;background:url(../imgtehuipeijian/5.jpg);text-align:center;}
+.main1 a{width:1000px;height:300px;}
+
+
+.main2{width:1920px;height:201px;margin:0 auto;background:url(../imgtehuipeijian/6.jpg);text-align:center;}
+
+
+.main3{width:1920px;height:310px;margin:0 auto;background:url(../imgtehuipeijian/7.jpg);text-align:center;}
+.main3 a{width:246px;height:310px;}
+
+
+.main4{width:1920px;height:194px;margin:0 auto;background:url(../imgtehuipeijian/8.jpg);text-align:center;}
+
+
+.main5{width:1920px;height:320px;margin:0 auto;background:url(../imgtehuipeijian/9.jpg);text-align:center;}
+.main5 a{width:246px;height:310px;}
+.main6{background:url(../imgtehuipeijian/10.jpg);}
+.main7{width:1920px;height:180px;margin:0 auto;background:url(../imgtehuipeijian/11.jpg);text-align:center;}
+.main7 a{width:1000px;height:180px;}
+
+
+.main8{width:1920px;height:194px;margin:0 auto;background:url(../imgtehuipeijian/12.jpg);text-align:center;}
+.main9{width:1920px;height:310px;margin:0 auto;background:url(../imgtehuipeijian/13.jpg);text-align:center;}
+.main9 a{width:246px;height:310px;}
+.main10{width:1920px;height:321px;margin:0 auto;background:url(../imgtehuipeijian/14.jpg);text-align:center;}
+.main10 a{width:1000px;height:310px;margin-top:10px;}
+
+
+.main11{width:1920px;height:198px;margin:0 auto;background:url(../imgtehuipeijian/15.jpg);text-align:center;}
+.main12{width:1920px;height:310px;margin:0 auto;background:url(../imgtehuipeijian/16.jpg);text-align:center;}
+.main12 a{width:246px;height:310px;margin-top:9px;}
+.main12_1 a{margin-top:0px;}
+.main12 .kuan{width:500px;}
+.main13{height:319px;background:url(../imgtehuipeijian/17.jpg);}
+.main14{height:319px;background:url(../imgtehuipeijian/18.jpg);}
+.main15{height:319px;background:url(../imgtehuipeijian/19.jpg);}
+
+
+.main16{width:1920px;height:194px;margin:0 auto;background:url(../imgtehuipeijian/20.jpg);text-align:center;}
+.main17{width:1920px;height:88px;margin:0 auto;background:url(../imgtehuipeijian/21.jpg);text-align:center;}
+.main17 a{width:1000px;height:88px;}
+.main18{background:url(../imgtehuipeijian/22.jpg);}
+.main19{background:url(../imgtehuipeijian/23.jpg);}
+.main20{background:url(../imgtehuipeijian/24.jpg);}
+.main21{background:url(../imgtehuipeijian/25.jpg);}
+.main22{background:url(../imgtehuipeijian/26.jpg);}
+
+
+.main23{width:1920px;height:197px;margin:0 auto;background:url(../imgtehuipeijian/27.jpg);text-align:center;}
+
+
+.main24{width:1920px;height:310px;margin:0 auto;background:url(../imgtehuipeijian/28.jpg);text-align:center;}
+.main24 a{width:498px;height:310px;}
+.main25{height:321px;background:url(../imgtehuipeijian/29.jpg);}
+.main25 a{height:310px;margin-top:11px;}
+
+
+.footer{width:1920px;height:36px;margin:0 auto;background:url(../imgtehuipeijian/111_02.png);}
